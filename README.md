@@ -17,7 +17,7 @@ The `RavenPackNewsProcessor` is a Python class designed for processing RavenPack
 
 ---
 
-## Dependencies
+## Test Environment
 
 - Python == 3.12.7
 - pandas == 2.2.3
